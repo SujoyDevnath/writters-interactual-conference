@@ -1,0 +1,72 @@
+[
+    {
+      "name": "J.K. Rowling",
+      "type": "Screen Writter",
+      "age": 56,
+      "country": "United Kingdom",
+      "fee": 100000
+    },
+    {
+      "name": "James Patterson",
+      "type": "Novel Writter",
+      "age": 74,
+      "country": "United States",
+      "fee": 100000
+    },
+    {
+      "name": "Stephen King",
+      "type": "Commic Writter",
+      "age": 74,
+      "country": "United States",
+      "fee": 100000
+    },
+    {
+      "name": "John Grisham",
+      "type": "Novel Writter",
+      "age": 66,
+      "country": "United States",
+      "fee": 100000
+    },
+    {
+      "name": "Kazuo Ishiguro",
+      "type": "Novel Writter",
+      "age": 66,
+      "country": "Japan",
+      "fee": 100000
+    },
+    {
+      "name": "Margaret Atwood",
+      "type": "Poet Writter",
+      "age": 81,
+      "country": "Canada",
+      "fee": 100000
+    },
+    {
+      "name": "Zadie Smith",
+      "type": "Novel Writter",
+      "age": 45,
+      "country": "United Kingdom",
+      "fee": 100000
+    },
+    {
+      "name": "Neil Gaiman",
+      "type": "Fiction Writter",
+      "age": 60,
+      "country": "United Kingdom",
+      "fee": 100000
+    },
+    {
+      "name": "Haruki Murakami",
+      "type": "Short story Writter",
+      "age": 72,
+      "country": "Japan",
+      "fee": 100000
+    },
+    {
+      "name": "Jonathan Franzen",
+      "type": "Novel Writter",
+      "age": 62,
+      "country": "United States",
+      "fee": 100000
+    }
+  ]
