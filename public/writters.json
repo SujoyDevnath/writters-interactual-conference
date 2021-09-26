@@ -1,5 +1,6 @@
 [
     {
+      "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTUwMTA3MzE4Mjk3OTQ0/gettyimages-1061157246.jpg",
       "name": "J.K. Rowling",
       "type": "Screen Writter",
       "age": 56,
@@ -7,6 +8,7 @@
       "fee": 100000
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/James_Patterson.jpg",
       "name": "James Patterson",
       "type": "Novel Writter",
       "age": 74,
@@ -14,6 +16,7 @@
       "fee": 100000
     },
     {
+      "image": "https://i.guim.co.uk/img/media/6f106b37ba54498215b43d2833258df25efb53e4/0_57_3500_2100/master/3500.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=5d4991c12ab0707d5cf6a3ddb6605a52",
       "name": "Stephen King",
       "type": "Commic Writter",
       "age": 74,
@@ -21,6 +24,7 @@
       "fee": 100000
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/John_Grisham_2009.jpg/200px-John_Grisham_2009.jpg",
       "name": "John Grisham",
       "type": "Novel Writter",
       "age": 66,
@@ -28,6 +32,7 @@
       "fee": 100000
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kazuo_Ishiguro_in_2017_01.jpg",
       "name": "Kazuo Ishiguro",
       "type": "Novel Writter",
       "age": 66,
@@ -35,6 +40,7 @@
       "fee": 100000
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Margaret_Atwood_2015.jpg",
       "name": "Margaret Atwood",
       "type": "Poet Writter",
       "age": 81,
@@ -42,6 +48,7 @@
       "fee": 100000
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Zadie_Smith_NBCC_2011_Shankbone.jpg/1200px-Zadie_Smith_NBCC_2011_Shankbone.jpg",
       "name": "Zadie Smith",
       "type": "Novel Writter",
       "age": 45,
@@ -49,6 +56,7 @@
       "fee": 100000
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kyle-cassidy-neil-gaiman-April-2013.jpg/1200px-Kyle-cassidy-neil-gaiman-April-2013.jpg",
       "name": "Neil Gaiman",
       "type": "Fiction Writter",
       "age": 60,
@@ -56,6 +64,7 @@
       "fee": 100000
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/HarukiMurakami.png",
       "name": "Haruki Murakami",
       "type": "Short story Writter",
       "age": 72,
@@ -63,6 +72,7 @@
       "fee": 100000
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jonathan_Franzen_2011_Shankbone_2.JPG/1200px-Jonathan_Franzen_2011_Shankbone_2.JPG",
       "name": "Jonathan Franzen",
       "type": "Novel Writter",
       "age": 62,
