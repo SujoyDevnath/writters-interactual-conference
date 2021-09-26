@@ -40,19 +40,6 @@ const Main = () => {
                     <Cart cart={cart}></Cart>
                 </div>
             </div>
-
-
-
-            {/* <div className="container px-4">
-                <div className="row gx-5">
-                    <div className="col-lg-9">
-                        <div className="bg-info">first</div>
-                    </div>
-                    <div className="col-lg-3">
-                        <div className="bg-info">second</div>
-                    </div>
-                </div>
-            </div> */}
         </div>
     );
 };

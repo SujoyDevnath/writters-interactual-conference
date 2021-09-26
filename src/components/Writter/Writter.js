@@ -38,7 +38,6 @@ const Writter = (props) => {
                         </tbody>
                     </table>
                     <button className="btn btn-danger" onClick={ () => props.handleAddToCart(props.writter)}>{element} Add To Cart</button>
-                    {/* <a href="#" className="btn btn-primary">Go somewhere</a> */}
                 </div>
             </div>
         </div>
