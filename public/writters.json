@@ -15,7 +15,7 @@
       "type": "Novel Writter",
       "age": 74,
       "country": "United States",
-      "fee": 100000
+      "fee": 500000
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "type": "Commic Writter",
       "age": 74,
       "country": "United States",
-      "fee": 100000
+      "fee": 200000
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "type": "Novel Writter",
       "age": 66,
       "country": "United States",
-      "fee": 100000
+      "fee": 1000000
     },
     {
       "id": 5,
@@ -42,16 +42,16 @@
       "type": "Novel Writter",
       "age": 66,
       "country": "Japan",
-      "fee": 100000
+      "fee": 300000
     },
     {
       "id": 6,
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Margaret_Atwood_2015.jpg",
       "name": "Margaret Atwood",
-      "type": "Poet Writter",
+      "type": "Poem Writter",
       "age": 81,
       "country": "Canada",
-      "fee": 100000
+      "fee": 400000
     },
     {
       "id": 7,
@@ -60,7 +60,7 @@
       "type": "Novel Writter",
       "age": 45,
       "country": "United Kingdom",
-      "fee": 100000
+      "fee": 900000
     },
     {
       "id": 8,
@@ -69,16 +69,16 @@
       "type": "Fiction Writter",
       "age": 60,
       "country": "United Kingdom",
-      "fee": 100000
+      "fee": 700000
     },
     {
       "id": 9,
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/HarukiMurakami.png",
       "name": "Haruki Murakami",
-      "type": "Short story Writter",
+      "type": "Story Writter",
       "age": 72,
       "country": "Japan",
-      "fee": 100000
+      "fee": 1100000
     },
     {
       "id": 10,
@@ -87,6 +87,6 @@
       "type": "Novel Writter",
       "age": 62,
       "country": "United States",
-      "fee": 100000
+      "fee": 1500000
     }
   ]

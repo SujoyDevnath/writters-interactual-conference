@@ -11,9 +11,9 @@ const Cart = (props) => {
     }
 
     return (
-        <div className="shadow py-3 position-fixed" style={{minHeight: '200px', width: '310px', background: 'burlywood'}}>
+        <div className="cart py-3 position-fixed">
             <h4>Writters Added : {props.cart.length}</h4>
-            <h5>Total Cost : {total}</h5>
+            <h5>Total Cost : ${total}</h5>
             <h4 className="p-3">Writters name : </h4>
             <ol className="ol">
                 {

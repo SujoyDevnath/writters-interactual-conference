@@ -9,31 +9,31 @@ const Writter = (props) => {
     return (
 
         <div className="col">
-            <div className="card shadow py-3" style={{width: '18rem', background: 'cadetblue'}}>
-                <img src={image} className="card-img-top rounded-circle mx-auto" alt="..." style={{height: "150px", width: "150px"}} />
+            <div className="card py-3">
+                <img src={image} className="card-img-top img-thumbnail rounded-circle mx-auto" alt="{name}" style={{height: "150px", width: "150px"}} />
                 <div className="card-body">
                     <h5 className="card-title">{name}</h5>
                     <table className="table">
-                        <tbody>
+                        <tbody className="text-start">
                             <tr>
-                                <td>Type</td>
-                                <td>:</td>
-                                <td>{type}</td>
+                                <th>Type</th>
+                                <th>:</th>
+                                <th>{type}</th>
                             </tr>
                             <tr>
-                                <td>Age</td>
-                                <td>:</td>
-                                <td>{age}</td>
+                                <th>Age</th>
+                                <th>:</th>
+                                <th>{age}</th>
                             </tr>
                             <tr>
-                                <td>Country</td>
-                                <td>:</td>
-                                <td>{country}</td>
+                                <th>Country</th>
+                                <th>:</th>
+                                <th>{country}</th>
                             </tr>
                             <tr>
-                                <td>Fee</td>
-                                <td>:</td>
-                                <td>{fee}</td>
+                                <th>Fee</th>
+                                <th>:</th>
+                                <th>${fee}</th>
                             </tr>
                         </tbody>
                     </table>
