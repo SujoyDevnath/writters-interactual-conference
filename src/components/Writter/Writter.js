@@ -4,15 +4,20 @@ import React from 'react';
 import './Writter.css';
 
 const Writter = (props) => {
+    // destructuring props.writter
     const {image, name, type, age, country, fee} = props.writter;
-    const element = <FontAwesomeIcon icon={faCartPlus} />
+    // icon part
+    const icon = <FontAwesomeIcon icon={faCartPlus} />
     return (
 
         <div className="col">
             <div className="card py-3">
-                <img src={image} className="card-img-top img-thumbnail rounded-circle mx-auto" alt="{name}" style={{height: "150px", width: "150px"}} />
+                {/* This card image */}
+                <img src={image} className="card-img-top img-thumbnail rounded-circle mx-auto" alt={name} style={{height: "150px", width: "150px"}} />
+                {/* card body srarts from here */}
                 <div className="card-body">
                     <h5 className="card-title">{name}</h5>
+                    {/* this is table which contains writters information*/}
                     <table className="table">
                         <tbody className="text-start">
                             <tr>
@@ -37,7 +42,8 @@ const Writter = (props) => {
                             </tr>
                         </tbody>
                     </table>
-                    <button className="btn btn-danger" onClick={ () => props.handleAddToCart(props.writter)}>{element} Add To Cart</button>
+                    {/* this is button which will pass data to main.js */}
+                    <button className="btn btn-danger" onClick={ () => props.handleAddToCart(props.writter)}>{icon} Add To Cart</button>
                 </div>
             </div>
         </div>

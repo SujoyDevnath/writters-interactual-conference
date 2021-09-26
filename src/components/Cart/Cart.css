@@ -1,4 +1,6 @@
-
+/* ------------------------------------------------
+--------------  Cart styling  ---------------
+-------------------------------------------------- */
 .cart {
     min-height: 200px;
     width: 310px;
@@ -12,29 +14,31 @@
     overflow-y: auto;
     max-height: 350px;
 }
-
+/* custom scroll bar of  ol list  start*/
 /* width */
 .ol::-webkit-scrollbar {
     width: 10px;
-  }
-  
-  /* Track */
+}
+
+/* Track */
 .ol::-webkit-scrollbar-track {
     box-shadow: inset 0 0 5px grey; 
     border-radius: 10px;
-  }
-   
-  /* Handle */
+}
+
+/* Handle */
 .ol::-webkit-scrollbar-thumb {
     background: grey; 
     border-radius: 10px;
-  }
-  
-  /* Handle on hover */
+}
+
+/* Handle on hover */
 .ol::-webkit-scrollbar-thumb:hover {
     background: #b30000; 
-  }
+}
+/* custom scroll bar of  ol list end*/
 
+/* list styling */
 .li {
     width: 220px;
     height: 60px;
